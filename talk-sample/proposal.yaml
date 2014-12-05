@@ -15,7 +15,7 @@ Speaker1:
   url: http://janedoe.com
   email: jane@doe.com
   bio: >
-    Bio of speaker1, 500 chars max, 500 chars max.
+    Bio of speaker1, 500 chars max.
 
 Speaker2:
   name: John Doe
@@ -23,5 +23,5 @@ Speaker2:
   url: http://johndoe.com
   email: john@doe.com
   bio: >
-    Bio of speaker2, 500 chars max, 500 chars max.
+    Bio of speaker2, 500 chars max.
 
