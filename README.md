@@ -1,4 +1,4 @@
-#Best of Fronts Call For Papers#
+#Best Of Front Call For Papers#
 
 This is what will be used to submit your talks to the Best of Meetup event in Paris in June 2015.
 
