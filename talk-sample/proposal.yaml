@@ -1,0 +1,27 @@
+---
+Session:
+  Title: My awesome talk
+  Description: >
+    Description of my awesome talk goes here, 600 chars max.
+  Length: 20 
+  Tags: 
+    - angularjs
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Jane Doe
+  twitter: JaneDoe
+  url: http://janedoe.com
+  email: jane@doe.com
+  bio: >
+    Bio of speaker1, 500 chars max, 500 chars max.
+
+Speaker2:
+  name: John Doe
+  twitter: JohnDoe
+  url: http://johndoe.com
+  email: john@doe.com
+  bio: >
+    Bio of speaker2, 500 chars max, 500 chars max.
+
